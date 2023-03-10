@@ -43,3 +43,16 @@ Você deverá fazer o deploy da aplicação web e da API em um serviço de hospe
 Certifique-se de documentar seu código e fornecer instruções claras para executar o projeto.
 Procure se diferenciar, adicionando funcionalidades extras e recursos adicionais.
 Boa sorte e divirta-se com o desafio! 😉🚀
+
+
+## Dados de referência
+
+Link da documentação da API utilizada no projeto:
+[documentação da Hotmart API](https://developers.hotmart.com/docs/en/)
+
+Período de seleção dos dados: 01/04/2021 a 30/05/2021 (A API retornará dados de compras nesse período)
+
+Credenciais:
+- client_id: ``dc02c371-8cd9-4067-821f-ae296dfdbadc``
+- client_secret: ``81b20d9c-14dc-4fa5-9833-8694d2a8019b`` 
+
