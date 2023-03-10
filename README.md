@@ -55,4 +55,5 @@ Período de seleção dos dados: 01/04/2021 a 30/05/2021 (A API retornará dados
 Credenciais:
 - client_id: ``dc02c371-8cd9-4067-821f-ae296dfdbadc``
 - client_secret: ``81b20d9c-14dc-4fa5-9833-8694d2a8019b`` 
+- token: (Basic): ``ZGMwMmMzNzEtOGNkOS00MDY3LTgyMWYtYWUyOTZkZmRiYWRjOjgxYjIwZDljLTE0ZGMtNGZhNS05ODMzLTg2OTRkMmE4MDE5Yg==``
 
